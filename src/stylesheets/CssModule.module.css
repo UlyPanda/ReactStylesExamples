@@ -1,0 +1,11 @@
+.module_container {
+  border: 1px solid gold;
+  display: flex;
+  justify-content: center;
+
+}
+
+.module_header {
+  color: maroon;
+  font-size: 24px;
+}

@@ -1,0 +1,10 @@
+.imported_container {
+  border: 1px solid green;
+  display: flex;
+  justify-content: center;
+}
+
+.imported_header {
+  color: purple;
+  font-size:  24px;
+}
